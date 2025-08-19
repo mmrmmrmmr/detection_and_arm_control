@@ -1,2 +1,1 @@
-# detection_and_arm_control
-the functional modules of project npu-sim
+本仓库为本科期间机械臂小车项目代码整理，本人主要负责整体任务控制、机械臂控制与视觉检测部分
